@@ -13,12 +13,8 @@ This project implements a simple shopping cart application using React Native. I
 - **HomeScreen**: Displays a list of products.
 - **CartScreen**: Displays the items in the cart with.
 
-## Setup
-
-1. Clone the repository.
-2. Install dependencies: `npm install`
-3. Run the app: `npx react-native run-android` or `npx react-native run-ios`
-
 ## Screenshots
 
-Include screenshots of the app here.
+![alt text](<image0 (3).png>)
+![alt text](<image1 (4).png>)
+![alt text](<image2 (3).png>)
